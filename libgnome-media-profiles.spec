@@ -9,7 +9,7 @@
 Summary:        GNOME Media Profiles library
 Name:           libgnome-media-profiles
 Version:        3.0.0
-Release:        8
+Release:        9
 Group:          Graphical desktop/GNOME 
 License:        LGPLv2+
 Url:            http://git.gnome.org/browse/libgnome-media-profiles
